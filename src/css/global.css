@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+* {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 400;
+}
+
+strong {
+  font-weight: bold;
+}
