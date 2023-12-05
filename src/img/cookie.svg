@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="7" cy="18" rx="2" ry="1" fill="#FA8475"/>
+<ellipse cx="26" cy="18" rx="2" ry="1" fill="#FA8475"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.07406 14.5C1.02508 14.9934 1 15.4938 1 16C1 24.2843 7.71573 31 16 31C24.2843 31 31 24.2843 31 16C31 15.4937 30.9749 14.9934 30.9259 14.5C30.1733 22.08 23.778 28 16 28C8.22198 28 1.82665 22.08 1.07406 14.5Z" fill="#E9AC71"/>
+<circle cx="23" cy="14" r="2" fill="#52565F"/>
+<rect x="23" y="13" width="1" height="1" rx="0.5" fill="white"/>
+<rect x="24" y="6" width="3" height="3" rx="1.5" fill="#F6CF86"/>
+<rect x="24" y="1" width="2" height="2" rx="1" fill="#F6CF86"/>
+<rect x="29" y="6" width="2" height="2" rx="1" fill="#F6CF86"/>
+<rect x="12" y="4" width="3" height="3" rx="1.5" fill="#B6663C"/>
+<rect x="23" y="23" width="2" height="2" rx="1" fill="#B6663C"/>
+<rect x="8" y="22" width="3" height="3" rx="1.5" fill="#B6663C"/>
+<rect x="17" y="21" width="2" height="2" rx="1" fill="#B6663C"/>
+<rect x="4" y="9" width="2" height="2" rx="1" fill="#B6663C"/>
+<rect x="19" y="8" width="2" height="2" rx="1" fill="#B6663C"/>
+<rect x="13" y="27" width="2" height="2" rx="1" fill="#B6663C"/>
+<path d="M8 12.5L11 14.5L8 16" stroke="#52565F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 17C17.75 18 17.0526 19 16 19C14.9474 19 14.25 18 14 17" stroke="#52565F" stroke-width="2" stroke-linecap="round"/>
+</svg>
